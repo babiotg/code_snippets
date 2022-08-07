@@ -1,2 +1,2 @@
 # code_snippets
-**Code Snippets** from my Python learning path
+**Code snippets** and **small projects** from my Python learning path
